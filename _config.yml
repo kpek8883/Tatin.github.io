@@ -1,1 +1,3 @@
-
+<style>
+  body { background: url(путь к файлу); }
+</style>
