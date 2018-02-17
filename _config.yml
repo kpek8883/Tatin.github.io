@@ -1,3 +1,12 @@
 <style>
   body {background  : url (https://kpek8883.github.io/kpek.github.io/91193013.jpg); }
 </style>
+
+<html>
+<head>
+<title>Картинка - фон в HTML</title>
+</head>
+<body style="background-image:url(https://kpek8883.github.io/kpek.github.io/91193013.jpg/images/primer-img.jpg)">
+<p>Какой-то произвольный текст.</p>
+</body>
+</html>
