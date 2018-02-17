@@ -1,5 +1,5 @@
-<h1 style="color:red">Привет Татьяна</h1>
-
+<h1 style = "color: green"> Вокруг Татьяны</ h1>
+<img src=http://arcanumclub.ru/smiles/smile361.gif>
 
 
 <img src="http://www.kolobok.us/smiles/madhouse/gamer1.gif">
