@@ -9,7 +9,7 @@
 
 
 
-<body style="background-image:url(https://kpek8883.github.io/kpek.github.io//images/primer-img.jpg)">
+<body style="background-image:url(https://kpek8883.github.io/kpek.github.io/91193013.jpg/primer-img.jpg)">
 <p>Какой-то произвольный текст.</p>
 </body>
 </html>
