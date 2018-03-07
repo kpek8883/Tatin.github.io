@@ -33,7 +33,7 @@
   }
 
   h1 {
-    font-size: 16px;
+    font-size: 36px;
     font-family: Monospace;
   }
 
