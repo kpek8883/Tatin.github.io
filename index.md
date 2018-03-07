@@ -1,5 +1,5 @@
-<h1 style = "color: pink"> МИЛАЯ ТАТЬЯНА </h1>
-<h2 style = "color: red ">
+<h1 style = "color: green"> МИЛАЯ ТАТЬЯНА </h1>
+<h2 style = "color: pink ">
  
 Ты, как цветок порой весенней,
 Нежна, мила и хороша.
