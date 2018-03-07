@@ -38,9 +38,9 @@
     font-family: Monospace;
   }
 
-  .thick-green-border {
-    border-color: green;
-    border-width: 10px;
+  .thick-red-border {
+    border-color: red;
+    border-width: 30px;
     border-style: solid;
     border-radius: 50%;
   }
@@ -53,7 +53,7 @@
   }
 </style>
 
-<h2 class="red-text"></h
+<h2 class="red-text"></h>
 <a href="#"><img class="smaller-image thick-green-border" alt="A cute orange cat lying on its back. " src="https://bit.ly/fcc-relaxing-cat"></a>
 
 
