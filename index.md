@@ -1,4 +1,5 @@
-<p style = "color: green"> МИЛАЯ ТАТЬЯНА </p>
+     <a href="#"><img class="smaller-image thick-green-border" alt="A cute orange cat lying on its back. " src="https://bit.ly/fcc-relaxing-cat"></a>
+       <p style = "color: green"> МИЛАЯ ТАТЬЯНА </p>
 <h2 style = "color: red">
  
 Ты, как цветок порой весенней,
@@ -52,9 +53,9 @@
   }
 </style>
 
-<h2 class="red-text"></h2>
+<h2 class="red-text"></h
 
-<a href="#"><img class="smaller-image thick-green-border" alt="A cute orange cat lying on its back. " src="https://bit.ly/fcc-relaxing-cat"></a>
+
 
 
 
