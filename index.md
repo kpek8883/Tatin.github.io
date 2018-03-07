@@ -1,5 +1,5 @@
-     <a href="#"><img class="smaller-image thick-green-border" alt="A cute orange cat lying on its back. " src="https://bit.ly/fcc-relaxing-cat"></a>
-       <p style = "color: green"> МИЛАЯ ТАТЬЯНА </p>
+    
+<p style = "color: green"> МИЛАЯ ТАТЬЯНА </p>
 <h2 style = "color: red">
  
 Ты, как цветок порой весенней,
@@ -34,13 +34,13 @@
   }
 
   p{
-    font-size: 66px;
+    font-size: 16px;
     font-family: Monospace;
   }
 
   .thick-green-border {
     border-color: green;
-    border-width: 100px;
+    border-width: 10px;
     border-style: solid;
     border-radius: 50%;
   }
@@ -54,6 +54,7 @@
 </style>
 
 <h2 class="red-text"></h
+<a href="#"><img class="smaller-image thick-green-border" alt="A cute orange cat lying on its back. " src="https://bit.ly/fcc-relaxing-cat"></a>
 
 
 
