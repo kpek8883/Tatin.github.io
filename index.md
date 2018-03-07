@@ -1,5 +1,5 @@
-<h1 style = "color: green"> МИЛАЯ ТАТЬЯНА </h1>
-<h2 class = "pink-text ">
+<h1 style = "color: pink"> МИЛАЯ ТАТЬЯНА </h1>
+<h2 class = "red-text ">
  
 Ты, как цветок порой весенней,
 Нежна, мила и хороша.
@@ -24,8 +24,8 @@
               
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
-  .pink-text {
-    color: pink;
+  .red-text {
+    color: red;
   }
 
   h2 {
@@ -33,7 +33,7 @@
   }
 
   p {
-    font-size: 26px;
+    font-size: 16px;
     font-family: Monospace;
   }
 
@@ -48,7 +48,7 @@
     width: 100px;
   }
   .silver-background {
-    background-color:pink;
+    background-color:red;
   }
 </style>
 
