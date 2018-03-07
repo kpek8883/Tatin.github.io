@@ -33,7 +33,7 @@
   }
 
   p{
-    font-size: 36px;
+    font-size: 66px;
     font-family: Monospace;
   }
 
