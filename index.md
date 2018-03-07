@@ -1,5 +1,5 @@
 <h1 style = "color: green"> МИЛАЯ ТАТЬЯНА </h1>
-<h2 class="red-text">
+<h2 class=pink-text">
  
 Ты, как цветок порой весенней,
 Нежна, мила и хороша.
@@ -52,7 +52,6 @@
   }
 </style>
 
-<h2 class="red-text"></h2>
 
 
 
