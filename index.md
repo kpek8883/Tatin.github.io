@@ -54,6 +54,7 @@
 
 <h2 class="red-text"></h2>
 
+<a href="#"><img class="smaller-image thick-green-border" alt="A cute orange cat lying on its back. " src="https://bit.ly/fcc-relaxing-cat"></a>
 
 
 
