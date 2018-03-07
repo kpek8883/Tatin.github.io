@@ -32,7 +32,7 @@
     font-family: Lobster, Monospace;
   }
 
-  p {
+  h1 {
     font-size: 16px;
     font-family: Monospace;
   }
