@@ -1,5 +1,5 @@
-<h1 style = "color: green"> МИЛАЯ ТАТЬЯНА </h1>
-<h2 style = "color: pink ">
+<p style = "color: green"> МИЛАЯ ТАТЬЯНА </p1>
+<h2 style = "color: red">
  
 Ты, как цветок порой весенней,
 Нежна, мила и хороша.
@@ -32,7 +32,7 @@
     font-family: Lobster, Monospace;
   }
 
-  h1 {
+  p{
     font-size: 36px;
     font-family: Monospace;
   }
