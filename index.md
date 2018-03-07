@@ -52,7 +52,7 @@
   }
 </style>
 
-<h2 class="pink-text"></h2>
+<h2 class="red-text"></h2>
 
 
 
