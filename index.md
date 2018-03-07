@@ -39,7 +39,7 @@
 
   .thick-green-border {
     border-color: green;
-    border-width: 10px;
+    border-width: 100px;
     border-style: solid;
     border-radius: 50%;
   }
