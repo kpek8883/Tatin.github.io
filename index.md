@@ -24,8 +24,8 @@
               
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
-  .red-text {
-    color: red;
+  .pink-text {
+    color: pink;
   }
 
   h2 {
@@ -33,7 +33,7 @@
   }
 
   p {
-    font-size: 16px;
+    font-size: 26px;
     font-family: Monospace;
   }
 
