@@ -6,7 +6,7 @@
    
     <body style="background-color:#151515">
     <center><font color="#43FF3D">
-    
+    </body>
 
 <p style = "color: green"> МИЛАЯ ТАТЬЯНА </p>
 <h2 style = "color: red">
