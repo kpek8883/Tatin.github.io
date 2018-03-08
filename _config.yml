@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pattern</title>
+</head>
+<body>
+<h1 style="color:green">Ты, как цветок порой весенней, Нежна, мила и хороша. И Женский день, 8 Марта, Будто придуман для тебя! Так пусть же первый ясный лучик Тебе подарит вкус любви, А ветерок, пришедший с юга, В душе твоей зажжет огни! Цветы добавят позитива, Чудес, веселья в твои дни, А первая роса на листьях Укажет путь, куда идти. Лишь только птичка начнет песню, Твои пусть сбудутся мечты, А стоит солнцу закатиться, Еще счастливей станешь ты!</h1>
+<body style="background-color: pink">
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<style type="text/css">     h1{color:red; font-style:italic; font-size:32px}     .blue{color:blue}     #bold{font-weight:bold}     
+h1 { font-family: Lobster, Monospace;}
+h1 {
+border: 15px solid indigo;padding: 50px;
+border-radius: 11%;}
+</style>
+</body>
+</html>
