@@ -49,10 +49,11 @@
     width: 200px;
   }
   .silver-background {
-    background-color:red;
+    background-color:green;
   }
 </style>
-
+<div class="silver-background">
+ </div>
 
 <a href="#"><img class="smaller-image thick-green-border" alt="A cute orange cat lying on its back. " src="https://bit.ly/fcc-relaxing-cat"></a>
 
