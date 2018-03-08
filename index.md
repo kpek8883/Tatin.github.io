@@ -1,9 +1,9 @@
-    <!DOCTYPE html>
+    
 
-  <head>
-    <title>Page Title</title>
-    </head>
-    <body>
+  
+   
+   
+   
     <body style="background-color:#151515">
     <center><font color="#43FF3D">
     
@@ -65,8 +65,8 @@
  </div>
 
 <a href="#"><img class="smaller-image thick-green-border" alt="A cute orange cat lying on its back. " src="https://bit.ly/fcc-relaxing-cat"></a>
-</body>
-</html>
+
+
 
 
 
